@@ -1,5 +1,5 @@
 ---
-name: "Product Delivery Orchestrator"
+name: "Özlem"
 description: "Use when delivering a product or feature end to end by orchestrating the Product Owner, IT Architect, and Full-Stack Developer from ordered user stories through architecture and implementation."
 argument-hint: "Describe the product, feature, or outcome to deliver."
 tools: [read, search, agent, todo]
